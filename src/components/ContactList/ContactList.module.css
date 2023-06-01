@@ -1,0 +1,14 @@
+.contact_list {
+  padding: 0;
+}
+
+.contact_item {
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contact_btn {
+  margin-left: 24px;
+}
