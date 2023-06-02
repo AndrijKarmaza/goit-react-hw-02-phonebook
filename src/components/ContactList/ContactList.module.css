@@ -11,4 +11,14 @@
 
 .contact_btn {
   margin-left: 24px;
+  padding: 4px;
+  border-radius: 4px;
+  background-color: #d3d3d3;
+  border: 1px solid#0080ff;
+  cursor: pointer;
+}
+
+.contact_btn:hover,
+.contact_btn:focus {
+  background-color: #0080ff;
 }
